@@ -1,8 +1,4 @@
 
-
-
-# **Course Contents**
-
 ## Chapter One: Intro to Python
 - Lesson 1: Python Syntax
 - Lesson 2: Handling Data
