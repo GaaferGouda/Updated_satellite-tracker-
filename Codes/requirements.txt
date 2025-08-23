@@ -1,0 +1,6 @@
+streamlit
+skyfield
+scikit-learn
+pandas
+numpy
+requests
