@@ -1,6 +1,6 @@
 # Multi-Satellite Tracker with AI (Streamlit App)
 
-🚀 Live Demo: [Open in Streamlit](https://7iygu4txtr5yrvuvhn7yqy.streamlit.app/)
+**Live Demo**: [Open in Streamlit](https://7iygu4txtr5yrvuvhn7yqy.streamlit.app/)
 
 This Streamlit app lets you track multiple satellites in real time and predict their future positions using a simple AI model (Linear Regression). It fetches live satellite data from CelesTrak and allows the user to select from a list of popular Earth-orbiting satellites.
 
@@ -97,17 +97,6 @@ pip install streamlit skyfield scikit-learn pandas requests
 ```bash
 streamlit run app.py
 ```
-
----
-
-##  Deploy to Streamlit Cloud
-
-1. Upload this project to a GitHub repository
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud)
-3. Click **"New App"**
-4. Connect to your GitHub
-5. Set the entry file to `app.py`
-6. Click **Deploy**
 
 ---
 
