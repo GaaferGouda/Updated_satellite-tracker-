@@ -1,5 +1,7 @@
 # Multi-Satellite Tracker with AI (Streamlit App)
 
+🚀 Live Demo: [Open in Streamlit](https://7iygu4txtr5yrvuvhn7yqy.streamlit.app/)
+
 This Streamlit app lets you track multiple satellites in real time and predict their future positions using a simple AI model (Linear Regression). It fetches live satellite data from CelesTrak and allows the user to select from a list of popular Earth-orbiting satellites.
 
 ---
