@@ -75,4 +75,4 @@ st.write(f"**Latitude:** `{pred_lat:.2f}°`")
 st.write(f"**Longitude:** `{pred_lon:.2f}°`")
 
 # Step 4: Map
-st.map(pd.DataFrame({'lat': [pred_lat], 'lon': [pred_lon]})) 
+st.map(pd.DataFrame({'lat': [pred_lat], 'lon': [pred_lon]}))
